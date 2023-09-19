@@ -55,3 +55,7 @@ docker-compose -f docker_compose.yml down
 `
 docker-compose -f docker_compose.yml build
 `
+
+## References
+- https://faust-streaming.github.io/faust/playbooks/vskafka.html
+- https://github.com/faust-streaming/faust
